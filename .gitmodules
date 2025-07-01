@@ -23,7 +23,7 @@
 	url = https://git@github.com/BioplatformsAustralia/ckanext-spatial.git
 [submodule "docker-bpa-ckan"]
 	path = docker-bpa-ckan
-	url = ssh://git@github.com/BioplatformsAustralia/docker-bpa-ckan
+	url = git@github.com:amandazhuyilan/docker-bpa-ckan.git
 [submodule "ckanext-initiatives"]
 	path = ckanext-initiatives
 	url = ssh://git@github.com/BioplatformsAustralia/ckanext-initiatives.git
@@ -42,3 +42,6 @@
 [submodule "ckanext-drs"]
 	path = ckanext-drs
 	url = ssh://git@github.com/BioplatformsAustralia/ckanext-drs.git
+[submodule "ckanext-oidc-pkce"]
+	path = ckanext-oidc-pkce
+	url = git@github.com:amandazhuyilan/ckanext-oidc-pkce.git
